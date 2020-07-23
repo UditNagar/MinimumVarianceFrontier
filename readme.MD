@@ -13,7 +13,7 @@ I randomly draw each element of w, the vector of portfolio weights, from the uni
 the portfolio weights sum to one. The normalized w is used to calculate the mean return and standard deviation of return. This process is repeated for 100,000 observations and a
 similar analysis is performed on Uniform Distribution by taking the weight 1/w (i.e. the reciporcal of w)
 
-- w, Noral Distribution
+- w, Normal Distribution
 - 1/w, Standard Uniform Distribution
 
 The Mean Variance Frontier plot is generated from both the analysis in Part 2.
